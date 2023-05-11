@@ -5,7 +5,7 @@ const path = require('path');
 const ps = require('process');
 const cps = require('child_process');
 
-const urlBase = 'images/background'; // for client asset downloads
+const urlBase = 'lifat/background'; // for client asset downloads
 
 // to change the order of images in the gallery, rename them before running this script.
 
