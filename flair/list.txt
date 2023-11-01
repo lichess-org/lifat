@@ -3417,7 +3417,6 @@ symbols.large-red-square
 symbols.large-yellow-circle
 symbols.large-yellow-square
 symbols.last-track-button
-symbols.latin-cross
 symbols.left-arrow-curving-right
 symbols.left-arrow
 symbols.left-luggage
@@ -3431,7 +3430,6 @@ symbols.love-letter
 symbols.male-sign
 symbols.medical-symbol
 symbols.mending-heart
-symbols.menorah
 symbols.mens-room
 symbols.minus
 symbols.mobile-phone-off
@@ -3455,7 +3453,6 @@ symbols.om
 symbols.on-arrow
 symbols.ophiuchus
 symbols.orange-heart
-symbols.orthodox-cross
 symbols.part-alternation-mark
 symbols.passport-control
 symbols.pause-button
