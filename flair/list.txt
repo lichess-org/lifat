@@ -3,6 +3,7 @@ activity.2nd-place-medal
 activity.3rd-place-medal
 activity.admission-tickets
 activity.american-football
+activity.among-us
 activity.artist-palette
 activity.badminton
 activity.balloon
@@ -12,6 +13,7 @@ activity.bowling
 activity.boxing-glove
 activity.carp-streamer
 activity.chess-pawn
+activity.chess
 activity.christmas-tree
 activity.club-suit
 activity.confetti-ball
@@ -40,6 +42,7 @@ activity.joker
 activity.joystick
 activity.kite
 activity.lacrosse
+activity.lichess
 activity.magic-wand
 activity.mahjong-red-dragon
 activity.martial-arts-uniform
@@ -1968,6 +1971,7 @@ people.mechanic
 people.medium-dark-skin-tone
 people.medium-light-skin-tone
 people.medium-skin-tone
+people.meme-success
 people.men-holding-hands-dark-skin-tone-light-skin-tone
 people.men-holding-hands-dark-skin-tone-medium-dark-skin-tone
 people.men-holding-hands-dark-skin-tone-medium-light-skin-tone
@@ -3143,6 +3147,10 @@ smileys.anguished-face
 smileys.anxious-face-with-sweat
 smileys.astonished-face
 smileys.beaming-face-with-smiling-eyes
+smileys.blob-aww
+smileys.cat-adorable
+smileys.cat-shrug
+smileys.cat-sip
 smileys.cat-with-tears-of-joy
 smileys.cat-with-wry-smile
 smileys.clown-face
@@ -3344,6 +3352,7 @@ symbols.fast-reverse-button
 symbols.fast-up-button
 symbols.female-sign
 symbols.fleur-de-lis
+symbols.flying-spaghetti-monster
 symbols.free-button
 symbols.gemini
 symbols.green-heart
@@ -3670,4 +3679,5 @@ travel-places.vertical-traffic-light
 travel-places.volcano
 travel-places.wedding
 travel-places.wheel
+travel-places.wooden-ship
 travel-places.world-map
