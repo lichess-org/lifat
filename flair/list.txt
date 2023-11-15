@@ -42,6 +42,7 @@ activity.joker
 activity.joystick
 activity.kite
 activity.lacrosse
+activity.lichess-horsey
 activity.lichess
 activity.magic-wand
 activity.mahjong-red-dragon
