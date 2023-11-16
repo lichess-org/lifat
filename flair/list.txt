@@ -3178,8 +3178,6 @@ symbols.black-circle
 symbols.black-heart
 symbols.black-large-square
 symbols.black-medium-small-square
-symbols.black-medium-square
-symbols.black-small-square
 symbols.black-square-button
 symbols.blue-heart
 symbols.bright-button
@@ -3423,9 +3421,7 @@ symbols.white-exclamation-mark
 symbols.white-heart
 symbols.white-large-square
 symbols.white-medium-small-square
-symbols.white-medium-square
 symbols.white-question-mark
-symbols.white-small-square
 symbols.white-square-button
 symbols.wireless
 symbols.womens-room
