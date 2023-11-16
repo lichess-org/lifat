@@ -1973,6 +1973,7 @@ people.mechanic
 people.medium-dark-skin-tone
 people.medium-light-skin-tone
 people.medium-skin-tone
+people.meme-kappalul
 people.meme-success
 people.men-holding-hands-dark-skin-tone-light-skin-tone
 people.men-holding-hands-dark-skin-tone-medium-dark-skin-tone
