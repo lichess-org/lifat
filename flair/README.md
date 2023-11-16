@@ -5,6 +5,8 @@ If you want to add a flair, please submit a pull request.
 
 The available flairs are visible on https://lichess1.org/assets/lifat/flair/index.html.
 
+Lichess flairs are not animated.
+
 ## Adding a flair
 
 ### Where to get flairs
@@ -12,8 +14,6 @@ The available flairs are visible on https://lichess1.org/assets/lifat/flair/inde
 This is probably a good source for new flairs: https://slackmojis.com/.
 
 The lichess discord and zulip also have some good flairs.
-
-Lichess flairs are not animated.
 
 ### Flair format
 
@@ -38,7 +38,10 @@ It can only contain letters, numbers, and dashes. Descriptive names help users f
 
 ### Compile the flair list
 
-After adding, removing, or changing flairs, you need to compile the flair list:
+Optional. You can add and remove flair images without compiling the flair list,
+and wait for someone else to compile it, before it comes online.
+
+If you have a command line and want to compile the flair list, run:
 
 ```shell
 ./flair/list.sh
