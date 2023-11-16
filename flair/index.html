@@ -25,7 +25,9 @@
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       }
-      .flairs div {
+      .flairs a {
+        color: #aaa;
+        text-decoration: none;
         font-size: 12px;
         display: flex;
         flex-flow: row nowrap;
@@ -40,7 +42,7 @@
   </head>
   <body>
     <script>
-      fetch('/assets/lifat/flair/list.txt')
+      fetch('list.txt')
         .then(r => r.text())
         .then(text => {
           let categs = {};
@@ -63,14 +65,16 @@
             const flairsDiv = document.createElement('div');
             flairsDiv.className = 'flairs';
             for (const flair of flairs) {
-              const div = document.createElement('div');
-              div.textContent = flair;
+              const a = document.createElement('a');
+              a.href = '#' + flair;
+              a.id = flair;
+              a.textContent = flair;
               const i = document.createElement('img');
               i.loading = 'lazy';
-              i.src = '/assets/lifat/flair/img/' + flair + '.webp';
+              i.src = 'img/' + flair + '.webp';
               i.title = flair;
-              div.appendChild(i);
-              flairsDiv.appendChild(div);
+              a.appendChild(i);
+              flairsDiv.appendChild(a);
             }
             categDiv.appendChild(flairsDiv);
             container.appendChild(categDiv);
