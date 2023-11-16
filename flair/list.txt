@@ -397,7 +397,6 @@ food-drink.dango
 food-drink.doughnut
 food-drink.dumpling
 food-drink.ear-of-corn
-food-drink.eggplant
 food-drink.egg
 food-drink.falafel
 food-drink.fish-cake-with-swirl
@@ -436,7 +435,6 @@ food-drink.oden
 food-drink.olive
 food-drink.onion
 food-drink.pancakes
-food-drink.peach
 food-drink.peanuts
 food-drink.pea-pod
 food-drink.pear
@@ -1923,12 +1921,6 @@ people.merperson-medium-dark-skin-tone
 people.merperson-medium-light-skin-tone
 people.merperson-medium-skin-tone
 people.merperson
-people.middle-finger-dark-skin-tone
-people.middle-finger-light-skin-tone
-people.middle-finger-medium-dark-skin-tone
-people.middle-finger-medium-light-skin-tone
-people.middle-finger-medium-skin-tone
-people.middle-finger
 people.mouth
 people.mrs-claus-dark-skin-tone
 people.mrs-claus-light-skin-tone
@@ -2362,12 +2354,6 @@ people.pinched-fingers-medium-dark-skin-tone
 people.pinched-fingers-medium-light-skin-tone
 people.pinched-fingers-medium-skin-tone
 people.pinched-fingers
-people.pinching-hand-dark-skin-tone
-people.pinching-hand-light-skin-tone
-people.pinching-hand-medium-dark-skin-tone
-people.pinching-hand-medium-light-skin-tone
-people.pinching-hand-medium-skin-tone
-people.pinching-hand
 people.police-officer-dark-skin-tone
 people.police-officer-light-skin-tone
 people.police-officer-medium-dark-skin-tone
@@ -3079,7 +3065,6 @@ smileys.face-holding-back-tears
 smileys.face-in-clouds
 smileys.face-savoring-food
 smileys.face-screaming-in-fear
-smileys.face-vomiting
 smileys.face-with-diagonal-mouth
 smileys.face-with-hand-over-mouth
 smileys.face-with-head-bandage
@@ -3130,7 +3115,6 @@ smileys.ogre
 smileys.partying-face
 smileys.pensive-face
 smileys.persevering-face
-smileys.pile-of-poo
 smileys.pleading-face
 smileys.pouting-cat
 smileys.pouting-face
