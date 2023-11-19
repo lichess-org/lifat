@@ -3231,8 +3231,10 @@ symbols.eight-spoked-asterisk
 symbols.eject-button
 symbols.elevator
 symbols.end-arrow
+symbols.esperanto
 symbols.exclamation-mark
 symbols.exclamation-question-mark
+symbols.extinction
 symbols.eye-in-speech-bubble
 symbols.fast-down-button
 symbols.fast-forward-button
@@ -3465,6 +3467,7 @@ travel-places.department-store
 travel-places.derelict-house
 travel-places.desert-island
 travel-places.desert
+travel-places.earth-blue
 travel-places.factory
 travel-places.ferris-wheel
 travel-places.ferry
