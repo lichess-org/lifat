@@ -418,7 +418,6 @@ objects.accordion
 objects.adhesive-bandage
 objects.alarm-clock
 objects.alembic
-objects.axe
 objects.backpack
 objects.balance-scale
 objects.ballet-shoes
@@ -436,7 +435,6 @@ objects.bikini
 objects.billed-cap
 objects.black-nib
 objects.blue-book
-objects.bomb
 objects.bookmark-tabs
 objects.bookmark
 objects.books
@@ -480,7 +478,6 @@ objects.credit-card
 objects.crossed-swords
 objects.crown
 objects.crutch
-objects.dagger
 objects.desktop-computer
 objects.diya-lamp
 objects.dollar-banknote
@@ -571,7 +568,6 @@ objects.megaphone
 objects.memo
 objects.microphone
 objects.microscope
-objects.military-helmet
 objects.mirror
 objects.mobile-phone
 objects.mobile-phone-with-arrow
@@ -2905,7 +2901,6 @@ symbols.back-arrow
 symbols.baggage-claim
 symbols.b-button-blood-type
 symbols.beating-heart
-symbols.biohazard
 symbols.black-circle
 symbols.black-flag
 symbols.black-heart
@@ -3102,7 +3097,6 @@ symbols.potable-water
 symbols.prohibited
 symbols.purple-heart
 symbols.question-mark
-symbols.radioactive
 symbols.radio-button
 symbols.rainbow-flag
 symbols.record-button
