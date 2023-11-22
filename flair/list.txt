@@ -3091,7 +3091,6 @@ symbols.peace-symbol
 symbols.pink-heart
 symbols.pirate-flag
 symbols.pisces
-symbols.place-of-worship
 symbols.play-button
 symbols.play-or-pause-button
 symbols.plus
