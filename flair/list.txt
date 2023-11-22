@@ -2951,7 +2951,6 @@ symbols.digit-zero
 symbols.dim-button
 symbols.divide
 symbols.dizzy
-symbols.dotted-six-pointed-star
 symbols.double-curly-loop
 symbols.double-exclamation-mark
 symbols.down-arrow
@@ -2975,7 +2974,6 @@ symbols.fast-reverse-button
 symbols.fast-up-button
 symbols.female-sign
 symbols.fleur-de-lis
-symbols.flying-spaghetti-monster
 symbols.free-button
 symbols.gemini
 symbols.green-heart
@@ -3131,8 +3129,6 @@ symbols.sos-button
 symbols.sparkle
 symbols.sparkling-heart
 symbols.speech-balloon
-symbols.star-and-crescent
-symbols.star-of-david
 symbols.stop-button
 symbols.taurus
 symbols.thought-balloon
@@ -3155,7 +3151,6 @@ symbols.vs-button
 symbols.water-closet
 symbols.wavy-dash
 symbols.wheelchair-symbol
-symbols.wheel-of-dharma
 symbols.white-circle
 symbols.white-exclamation-mark
 symbols.white-flag
@@ -3167,7 +3162,6 @@ symbols.white-square-button
 symbols.wireless
 symbols.womens-room
 symbols.yellow-heart
-symbols.yin-yang
 symbols.zzz
 travel-places.aerial-tramway
 travel-places.airplane-arrival
