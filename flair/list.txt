@@ -2960,6 +2960,7 @@ symbols.eight-spoked-asterisk
 symbols.eject-button
 symbols.elevator
 symbols.end-arrow
+symbols.esperanto-flag
 symbols.esperanto
 symbols.exclamation-mark
 symbols.exclamation-question-mark
@@ -3052,6 +3053,8 @@ symbols.left-right-arrow
 symbols.left-speech-bubble
 symbols.leo
 symbols.libra
+symbols.lichess4545-flag
+symbols.lichess-flag
 symbols.light-blue-heart
 symbols.litter-in-bin-sign
 symbols.love-letter
