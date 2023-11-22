@@ -15,6 +15,8 @@ This is probably a good source for new flairs: https://slackmojis.com/.
 
 The lichess discord and zulip also have some good flairs.
 
+Feel free to make your owns, or to get them from somewhere else - but be mindful of licenses.
+
 ### Flair format
 
 Lichess only uses webp flairs. You can convert your png to webp with `cwebp`:
