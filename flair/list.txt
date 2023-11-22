@@ -2836,6 +2836,11 @@ smileys.loudly-crying-face
 smileys.lying-face
 smileys.melting-face
 smileys.money-mouth-face
+smileys.monka-coffee
+smileys.monka-hmm
+smileys.monka-horsey
+smileys.monka-shrug
+smileys.monka-think
 smileys.nauseated-face
 smileys.nerd-face
 smileys.neutral-face
