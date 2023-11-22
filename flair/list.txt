@@ -2914,8 +2914,6 @@ symbols.brown-heart
 symbols.cancer
 symbols.capricorn
 symbols.check-box-with-check
-symbols.check-mark-button
-symbols.check-mark
 symbols.chequered-flag
 symbols.children-crossing
 symbols.cinema
@@ -3149,7 +3147,6 @@ symbols.upwards-button
 symbols.vibration-mode
 symbols.virgo
 symbols.vs-button
-symbols.warning
 symbols.water-closet
 symbols.wavy-dash
 symbols.wheelchair-symbol
