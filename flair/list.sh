@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Create list.txt from img/*.webp
 
