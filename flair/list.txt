@@ -3051,7 +3051,7 @@ symbols.left-right-arrow
 symbols.left-speech-bubble
 symbols.leo
 symbols.libra
-symbols.lichess4545-flag
+symbols.lichess-4545-flag
 symbols.lichess-flag
 symbols.light-blue-heart
 symbols.litter-in-bin-sign
