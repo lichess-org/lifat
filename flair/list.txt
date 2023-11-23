@@ -254,7 +254,10 @@ nature.deciduous-tree
 nature.deer
 nature.dodo
 nature.dog-face
+nature.dog-glasses
+nature.dog-laugh
 nature.dog
+nature.dog-wow
 nature.dolphin
 nature.donkey
 nature.dove
@@ -300,6 +303,7 @@ nature.horse-face
 nature.horse
 nature.hyacinth
 nature.jellyfish
+nature.jiggly-puff
 nature.kangaroo
 nature.koala
 nature.lady-beetle
@@ -326,6 +330,7 @@ nature.mushroom
 nature.nest-with-eggs
 nature.new-moon-face
 nature.new-moon
+nature.octopus-howard
 nature.octopus
 nature.orangutan
 nature.otter
@@ -357,6 +362,7 @@ nature.rock
 nature.rooster
 nature.rosette
 nature.rose
+nature.rubber-duck
 nature.sauropod
 nature.scorpion
 nature.seal
@@ -945,6 +951,7 @@ people.detective-medium-light-skin-tone
 people.detective-medium-skin-tone
 people.detective
 people.dna
+people.doom-guy
 people.drop-of-blood
 people.ear-dark-skin-tone
 people.ear-light-skin-tone
@@ -1646,6 +1653,7 @@ people.medium-dark-skin-tone
 people.medium-light-skin-tone
 people.medium-skin-tone
 people.meme-kappalul
+people.meme-kappa
 people.meme-success
 people.men-holding-hands-dark-skin-tone-light-skin-tone
 people.men-holding-hands-dark-skin-tone-medium-dark-skin-tone
@@ -2873,6 +2881,7 @@ people.writing-hand-medium-dark-skin-tone
 people.writing-hand-medium-light-skin-tone
 people.writing-hand-medium-skin-tone
 people.writing-hand
+people.zombie-plant
 people.zombie
 smileys.alien-monster
 smileys.alien
@@ -2955,14 +2964,28 @@ smileys.lying-face
 smileys.melting-face
 smileys.money-mouth-face
 smileys.monka-coffee
+smileys.monka-fbi-glasses
 smileys.monka-hmm
 smileys.monka-horsey
+smileys.monka-joy
+smileys.monka-sad
 smileys.monka-shrug
 smileys.monka-think
+smileys.monka-trash
+smileys.monka-wow
 smileys.nauseated-face
 smileys.nerd-face
 smileys.neutral-face
 smileys.ogre
+smileys.panda-cry
+smileys.panda-fight
+smileys.panda-glasses
+smileys.panda-hi
+smileys.panda-love
+smileys.panda-popcorn
+smileys.panda-think
+smileys.panda-wow
+smileys.panda-yay
 smileys.partying-face
 smileys.pensive-face
 smileys.persevering-face
@@ -3093,6 +3116,7 @@ symbols.female-sign
 symbols.fleur-de-lis
 symbols.free-button
 symbols.gemini
+symbols.gnu-logo
 symbols.green-heart
 symbols.grey-heart
 symbols.growing-heart
@@ -3173,6 +3197,7 @@ symbols.libra
 symbols.lichess-4545-flag
 symbols.lichess-flag
 symbols.light-blue-heart
+symbols.linux-tux-penguin
 symbols.litter-in-bin-sign
 symbols.love-letter
 symbols.male-sign
@@ -3214,6 +3239,7 @@ symbols.plus
 symbols.potable-water
 symbols.prohibited
 symbols.purple-heart
+symbols.puzzle-storm
 symbols.question-mark
 symbols.radio-button
 symbols.rainbow-flag
@@ -3260,6 +3286,7 @@ symbols.up-left-arrow
 symbols.up-right-arrow
 symbols.upwards-button
 symbols.vibration-mode
+symbols.vim-logo
 symbols.virgo
 symbols.vs-button
 symbols.water-closet
