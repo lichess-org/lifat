@@ -45,6 +45,14 @@ activity.lacrosse
 activity.lichess-berserk
 activity.lichess-hogger
 activity.lichess-horsey
+activity.lichess-variant-960
+activity.lichess-variant-antichess
+activity.lichess-variant-atomic
+activity.lichess-variant-crazyhouse
+activity.lichess-variant-horde
+activity.lichess-variant-king-of-the-hill
+activity.lichess-variant-racing-kings
+activity.lichess-variant-three-check
 activity.lichess
 activity.magic-wand
 activity.mahjong-red-dragon
