@@ -3,7 +3,12 @@ activity.2nd-place-medal
 activity.3rd-place-medal
 activity.admission-tickets
 activity.american-football
+activity.among-us-blue
+activity.among-us-green
+activity.among-us-orange
+activity.among-us-pink
 activity.among-us
+activity.among-us-yellow
 activity.artist-palette
 activity.badminton
 activity.balloon
@@ -2326,12 +2331,6 @@ people.technologist-medium-dark-skin-tone
 people.technologist-medium-light-skin-tone
 people.technologist-medium-skin-tone
 people.technologist
-people.thumbs-down-dark-skin-tone
-people.thumbs-down-light-skin-tone
-people.thumbs-down-medium-dark-skin-tone
-people.thumbs-down-medium-light-skin-tone
-people.thumbs-down-medium-skin-tone
-people.thumbs-down
 people.thumbs-up-dark-skin-tone
 people.thumbs-up-light-skin-tone
 people.thumbs-up-medium-dark-skin-tone
