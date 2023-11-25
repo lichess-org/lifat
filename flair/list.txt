@@ -94,6 +94,7 @@ activity.video-game
 activity.volleyball
 activity.wind-chime
 activity.wrapped-gift
+activity.xmas-lichess-horsey
 activity.yo-yo
 food-drink.amphora
 food-drink.avocado
@@ -435,6 +436,7 @@ nature.wing
 nature.wolf
 nature.wood
 nature.worm
+nature.xmas-tree
 nature.zebra
 objects.abacus
 objects.accordion
@@ -729,6 +731,9 @@ objects.womans-hat
 objects.womans-sandal
 objects.wrench
 objects.x-ray
+objects.xmas-bell
+objects.xmas-hat
+objects.xmas-tree
 objects.yarn
 objects.yen-banknote
 people.anatomical-heart
