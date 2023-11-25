@@ -357,6 +357,7 @@ nature.pig-nose
 nature.pig
 nature.polar-bear
 nature.poodle
+nature.poppy-remembrance
 nature.potted-plant
 nature.rabbit-face
 nature.rabbit
