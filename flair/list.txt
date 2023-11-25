@@ -77,6 +77,8 @@ activity.puzzle-piece
 activity.red-envelope
 activity.rugby-football
 activity.running-shirt
+activity-shogi-bigsby
+activity.shogi-king
 activity.skis
 activity.sled
 activity.slot-machine
