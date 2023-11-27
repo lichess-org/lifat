@@ -50,6 +50,7 @@ activity.lacrosse
 activity.lichess-berserk
 activity.lichess-hogger
 activity.lichess-horsey
+activity.lichess-horsey-closeup
 activity.lichess-logo-blue-glow
 activity.lichess-logo-blue
 activity.lichess-logo-gold-glow
@@ -467,6 +468,7 @@ objects.backpack
 objects.balance-scale
 objects.ballet-shoes
 objects.ballot-box-with-ballot
+objects.ban-hammer
 objects.banjo
 objects.bar-chart
 objects.basket
