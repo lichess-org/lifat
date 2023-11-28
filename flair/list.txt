@@ -2925,6 +2925,10 @@ smileys.anxious-face-with-sweat
 smileys.astonished-face
 smileys.beaming-face-with-smiling-eyes
 smileys.blob-aww
+smileys.blob-grin
+smileys.blob-hide
+smileys.blob-pika
+smileys.blob-shock-sip
 smileys.cat-adorable
 smileys.cat-shrug
 smileys.cat-sip
