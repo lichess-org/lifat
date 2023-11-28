@@ -450,7 +450,6 @@ nature.waxing-crescent-moon
 nature.waxing-gibbous-moon
 nature.whale
 nature.white-flower
-nature.white-poppy-remembrance
 nature.wilted-flower
 nature.wind-face
 nature.wing
