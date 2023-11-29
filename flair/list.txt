@@ -2889,9 +2889,6 @@ smileys.anguished-face
 smileys.anxious-face-with-sweat
 smileys.astonished-face
 smileys.beaming-face-with-smiling-eyes
-smileys.cat-adorable
-smileys.cat-shrug
-smileys.cat-sip
 smileys.cat-with-tears-of-joy
 smileys.cat-with-wry-smile
 smileys.clown-face
