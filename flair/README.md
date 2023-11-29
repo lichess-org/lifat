@@ -30,6 +30,8 @@ Similar programs are available, such as [ImageMagick](https://imagemagick.org/in
 Now that you have a webp file, you can add it to the `flair/img` directory.
 The name of the file is important, it's the only metadata we have. It's made of two parts: the category, and the name.
 
+Flairs must have a transparent background.
+
 `<category>.<multi-word-name>.webp`
 
 The category will be used to group the flairs in the UI. It can be one of the following:
