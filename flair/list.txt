@@ -89,7 +89,6 @@ activity.video-game
 activity.volleyball
 activity.wind-chime
 activity.wrapped-gift
-activity.xmas-hat
 activity.xmas-lichess-horsey
 activity.yo-yo
 food-drink.amphora
@@ -723,6 +722,7 @@ objects.womans-sandal
 objects.wrench
 objects.xmas-bell
 objects.xmas-candle
+objects.xmas-hat
 objects.x-ray
 objects.yarn
 objects.yen-banknote
